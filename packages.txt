@@ -1,0 +1,5 @@
+qiskit==0.20
+numpy 
+matplotlib
+pandas 
+seaborn

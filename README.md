@@ -13,8 +13,7 @@ I still want to add:
 
 - Phase estimation
 - Amplitdue estimation
-These are the algoritms used in ODE solvers
-
+(These are the algoritms used in ODE solvers)
 - Grover's algoritm (unstructured search)
 - Some optimization algoritms (I haven't read much about them yet)
 
